@@ -1,0 +1,46 @@
+body{
+  align-items: center;
+}
+.main{
+  position: absolute;
+  object-fit: cover;
+  z-index: -1;
+  top: 0;
+
+}
+li{
+  color: white;
+}
+
+
+
+  /* Add Image Css  */
+  .Drag_Area{
+    cursor: pointer;
+    /* border:  solid black; */
+    margin: 6rem;
+    text-align: center;
+    padding: 4rem;
+    border-radius: 2rem;
+    font-weight: 500;
+    margin-left: 18rem;
+    margin-right: 18rem;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+  }
+  .Drag_Area:hover{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  }
+
+  .Select_Report{
+    background-color: blue;
+    color: white;
+    padding: 1rem;
+    border-radius: 1rem;
+  }
+
+
+
+
+
+
+  
